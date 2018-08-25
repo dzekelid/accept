@@ -12,14 +12,14 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Accept
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: meeventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
@@ -30,1425 +30,305 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: usersid--userprincipalnameeventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: groupsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: mecalendareventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: usersid--userprincipalnamecalendareventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: groupsidcalendareventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: mecalendarsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: usersid--userprincipalnamecalendarsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: mecalendargroupcalendarsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: mecalendargroupsidcalendarsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Accept
+  x-api-slug: usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post
+  description: 'event: accept Accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: meeventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: usersid--userprincipalnameeventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: groupsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: mecalendareventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: usersid--userprincipalnamecalendareventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: groupsidcalendareventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: mecalendarsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: mecalendargroupcalendarsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: mecalendargroupsidcalendarsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: microsoft-graph-exposes-multiple-apis-from-office-365-and-other-microsoft-cloud-services-through-a-single-endpoint-httpsgraph-microsoft-com--microsoft-graph-simplifies-queries-that-would-otherwise-be-more-complex-
+- name: Microsoft Graph API - Event Tentatively Accept
+  x-api-slug: usersid--userprincipalnamecalendargroupsidcalendarsideventsidtentativelyaccept-post
+  description: 'event: tentativelyAccept Tentatively accept the specified event.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
   humanURL: https://developer.microsoft.com/en-us/graph/
   baseURL: https://graph.microsoft.com//
   tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
     Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/meeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnameeventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/groupsidcalendareventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupcalendarsideventsidtentativelyaccept-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidtentativelyaccept-post-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/mecalendargroupsidcalendarsideventsidtentativelyaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidtentativelyaccept-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/usersid--userprincipalnamecalendargroupsidcalendarsideventsidtentativelyaccept-post-openapi.md
-- name: Microsoft Graph
-  x-api-slug: microsoft-graph
-  description: 'Microsoft Graph exposes multiple APIs from Office 365 and other Microsoft
-    cloud services through a single endpoint: https://graph.microsoft.com. Microsoft
-    Graph simplifies queries that would otherwise be more complex. You can use Microsoft
-    Graph to: Access data from multiple Microsoft cloud services, including Azure
-    Active Directory, Exchange Online as part of Office 365, SharePoint, OneDrive,
-    OneNote, and Planner. Navigate between entities and relationships. Access intelligence
-    and insights from the Microsoft cloud (for commercial users).'
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
-  humanURL: https://developer.microsoft.com/en-us/graph/
-  baseURL: https://graph.microsoft.com//
-  tags: Accept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-graph/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://messente.api.gallery.streamdata.io

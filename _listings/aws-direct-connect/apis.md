@@ -18,58 +18,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Accept
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/aws-direct-connect/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Direct Connect API
-  x-api-slug: aws-direct-connect-api
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
-  humanURL: https://aws.amazon.com/directconnect/
-  baseURL: :///
-  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
-    API Provider, Profiles, Relative Data, Service API, Networks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/aws-direct-connect/actionconfirmprivatevirtualinterface-get-openapi.md
-- name: AWS Direct Connect API
-  x-api-slug: aws-direct-connect-api
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
-  humanURL: https://aws.amazon.com/directconnect/
-  baseURL: :///
-  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
-    API Provider, Profiles, Relative Data, Service API, Networks
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/aws-direct-connect/actionconfirmprivatevirtualinterface-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/aws-direct-connect/actionconfirmpublicvirtualinterface-get-openapi.md
-- name: AWS Direct Connect API
-  x-api-slug: aws-direct-connect-api
-  description: AWS Direct Connect makes it easy to establish a dedicated network connection
-    from your premises to AWS. Using AWS Direct Connect, you can establish private
-    connectivity between AWS and your datacenter, office, or colocation environment,
-    which in many cases can reduce your network costs, increase bandwidth throughput,
-    and provide a more consistent network experience than Internet-based connections.AWS
-    Direct Connect lets you establish a dedicated network connection between your
-    network and one of the AWS Direct Connect locations. Using industry standard 802.1q
-    VLANs, this dedicated connection can be partitioned into multiple virtual interfaces.
-    This allows you to use the same connection to access public resources such as
-    objects stored in Amazon S3 using public IP address space, and private resources
-    such as Amazon EC2 instances running within anAmazon Virtual Private Cloud (VPC)using
-    private IP space, while maintaining network separation between the public and
-    private environments. Virtual interfaces can be reconfigured at any time to meet
-    your changing needs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
-  humanURL: https://aws.amazon.com/directconnect/
-  baseURL: :///
-  tags: Accept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/aws-direct-connect/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.device.farm.api.gallery.streamdata.io

@@ -7,25 +7,18 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlass
 x-kinRank: "8"
 x-alexaRank: "1656"
 tags: Accept
-created: "2018-08-24"
-modified: "2018-08-24"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Confluence Cloud API
-  x-api-slug: confluence-cloud-api
-  description: Millions of users globally rely on Atlassian products every day for
-    improving software development, project management, collaboration, and code quality.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
-  humanURL: http://atlassian.com/
-  baseURL: https:////
-  tags: Accept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/openapi.md
-- name: Jira Cloud API
-  x-api-slug: jira-cloud-api
-  description: jira-cloud-rest-api-documentation
+- name: Jira Cloud REST API - Get locale
+  x-api-slug: api2mypreferenceslocale-get
+  description: Returns the locale of the currently logged in user. If the user has
+    no language preference explicitly set (the default setting), or is anonymous,
+    this will be the browser locale detected by Jira. If browser detection is in effect,
+    the "Accept-Language" browser header is used and falls back to the Jira site default
+    locale if no match is found.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
   humanURL: http://atlassian.com/
   baseURL: https:////
@@ -37,39 +30,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/api2mypreferenceslocale-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/api2mypreferenceslocale-get-openapi.md
-- name: Jira Cloud API
-  x-api-slug: jira-cloud-api
-  description: Millions of users globally rely on Atlassian products every day for
-    improving software development, project management, collaboration, and code quality.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
-  humanURL: http://atlassian.com/
-  baseURL: https:////
-  tags: Accept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/openapi.md
-- name: Jira Service Desk API
-  x-api-slug: jira-service-desk-api
-  description: Millions of users globally rely on Atlassian products every day for
-    improving software development, project management, collaboration, and code quality.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
-  humanURL: http://atlassian.com/
-  baseURL: https:////
-  tags: Accept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/openapi.md
-- name: Jira Software Cloud API
-  x-api-slug: jira-software-cloud-api
-  description: Millions of users globally rely on Atlassian products every day for
-    improving software development, project management, collaboration, and code quality.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg
-  humanURL: http://atlassian.com/
-  baseURL: https:////
-  tags: Accept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/atlassian/openapi.md
 x-common:
 - type: x-openapi
   url: https://developer.atlassian.com/cloud/jira/platform/swagger.v3.json
