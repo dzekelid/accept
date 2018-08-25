@@ -7,55 +7,37 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Accept
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-24"
+modified: "2018-08-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Microsoft Office 365 Add Events Event Accept
+- name: Microsoft Office 365
   x-api-slug: microsoft-office-365
-  description: Post events event  accept
+  description: office-365-is-the-brand-name-used-by-microsoft-for-a-group-of-software-plus-services-subscriptions-that-provides-productivity-software-and-related-services-to-its-subscribers-
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
   humanURL: http://office.com
-  baseURL: https://outlook.office365.com//ews/odata/Me//Events{event_id}/Accept
-  tags: Events, Event, , Accept
+  baseURL: https://outlook.office365.com//ews/odata/Me
+  tags: Spreadsheets, Documents, Stack Network, Stack, Productivity, API Provider,
+    Profiles, Relative Data, Service API
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idaccept-post-openapi.md
-- name: Microsoft Office 365 Parameters Events Event Accept
+- name: Microsoft Office 365
   x-api-slug: microsoft-office-365
-  description: Parameters events event  accept
+  description: office-365-is-the-brand-name-used-by-microsoft-for-a-group-of-software-plus-services-subscriptions-that-provides-productivity-software-and-related-services-to-its-subscribers-
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
   humanURL: http://office.com
-  baseURL: https://outlook.office365.com//ews/odata/Me//Events{event_id}/Accept
-  tags: Events, Event, , Accept
+  baseURL: https://outlook.office365.com//ews/odata/Me
+  tags: Spreadsheets, Documents, Stack Network, Stack, Productivity, API Provider,
+    Profiles, Relative Data, Service API
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idaccept-post-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idaccept-parameters-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idaccept-parameters-openapi.md
-- name: Microsoft Office 365 Add Events Event Tentatively Accept
-  x-api-slug: microsoft-office-365
-  description: Post events event  tentativelyaccept
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
-  humanURL: http://office.com
-  baseURL: https://outlook.office365.com//ews/odata/Me//Events{event_id}/TentativelyAccept
-  tags: Events, Event, , Tentativelyaccept
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idtentativelyaccept-post-openapi.md
-- name: Microsoft Office 365 Parameters Events Event Tentatively Accept
-  x-api-slug: microsoft-office-365
-  description: Parameters events event  tentativelyaccept
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
-  humanURL: http://office.com
-  baseURL: https://outlook.office365.com//ews/odata/Me//Events{event_id}/TentativelyAccept
-  tags: Events, Event, , Tentativelyaccept
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idtentativelyaccept-parameters-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/eventsevent-idtentativelyaccept-parameters-openapi.md
 - name: Microsoft Office 365
   x-api-slug: microsoft-office-365
   description: Integrate Office 365 REST APIs powered by Microsoft Graph into your
@@ -68,6 +50,10 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/accept/master/_listings/microsoft-office-365/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://microsoft.graph.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://microsoft.office.365.stack.network
 - type: x-developer
   url: http://dev.office.com
 - type: x-github

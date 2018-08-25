@@ -1,9 +1,9 @@
 ---
 swagger: "2.0"
-x-collection-name: Reddit
+x-collection-name: Avaza
 x-complete: 1
 info:
-  title: Reddit
+  title: Avaza
   version: 1.0.0
 schemes:
 - http
