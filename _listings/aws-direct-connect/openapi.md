@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: AWS Direct Connect
 x-complete: 1
@@ -51,4 +50,3 @@ paths:
           description: OK
       tags:
       - Private Virtual Interfaces
----
